@@ -31,3 +31,11 @@ O site será publicado no endereço do GitHub Pages do repositório.
 
 ## Observação
 As imagens da demonstração são carregadas do Unsplash por URL. Para a versão definitiva, é recomendável trocar por imagens próprias/profissionais ou por arquivos locais com licença adequada.
+
+
+## Paleta V1
+- Areia `#D8C6AA`
+- Bordô `#6B2635`
+- Cinza escuro `#333333`
+- Off-white `#F7F5F0`
+- Dourado `#B08A3E`
