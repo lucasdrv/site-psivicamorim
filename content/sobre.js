@@ -20,17 +20,12 @@ window.CONTENT.sobre = {
    "Existe uma história.",
    "Existem relações, experiências, desejos, conflitos, perdas, escolhas e formas particulares de se relacionar consigo mesma e com o outro.",
    "É esse olhar para a singularidade que orienta meu trabalho.",
-   "Minha forma de trabalhar",
    "Acredito em uma Psicologia que consiga dialogar com a vida real.",
    "Uma escuta que acolha, mas que também permita questionar aquilo que parece óbvio.",
    "Na psicoterapia, meu trabalho é construir, junto ao paciente, um espaço em que seja possível falar livremente, investigar questões que se repetem e produzir novas possibilidades de compreensão sobre a própria história.",
    "Na Neuropsicologia, o trabalho assume outra proposta: investigar de forma sistemática aspectos do funcionamento cognitivo, emocional e comportamental, sempre relacionando os resultados à história e à demanda da pessoa avaliada.",
    "São trabalhos diferentes, mas que têm em comum o cuidado com a singularidade de cada pessoa.",
-   "Formação",
-   "Psicologia — Universidade Federal Fluminense (UFF)",
-   "Pós-graduação em Terapia ABA",
-   "Pós-graduação em Neuropsicologia",
-   "CRP 05/74553"
+   "Psicologia — Universidade Federal Fluminense (UFF)\nPós-graduação em Terapia ABA\nPós-graduação em Neuropsicologia\nCRP 05/74553"
   ],
   link: { texto: "Saiba mais sobre mim", destino: "#contato" },   // apague a linha para remover o botão
 
