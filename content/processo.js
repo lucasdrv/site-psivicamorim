@@ -12,10 +12,19 @@ window.CONTENT.processo = {
   titulo: "Um processo seguro e acolhedor",
 
   passos: [
-    { titulo: "Primeiro contato",  texto: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { titulo: "Avaliação inicial", texto: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { titulo: "Sessões regulares", texto: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { titulo: "Acompanhamento",    texto: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." }
+    { titulo: "Primeiro contato",  texto: "Você entra em contato pelo WhatsApp para conhecer a disponibilidade, modalidade e informações iniciais sobre o atendimento." },
+    { titulo: "Primeiro encontro", texto: "Conversamos sobre o motivo que trouxe você à terapia e sobre o funcionamento do processo." },
+    { titulo: "Construção do processo", texto: "A partir dos encontros, vamos compreendendo as questões que aparecem e construindo o trabalho terapêutico." },
+    { titulo: "Continuidade",    texto: "A frequência das sessões é definida de acordo com as necessidades do processo e o enquadre terapêutico." }
+  ],
+
+  passos: [
+    { titulo: "Entrevista", texto: "Levantamento da demanda e das informações relevantes para a avaliação."},
+    { titulo: "Planejamento", texto: "Definição dos aspectos que precisam ser investigados e dos instrumentos adequados."},
+    { titulo: "Aplicação", texto: "Realização das etapas avaliativas planejadas."},
+    { titulo: "Análise", texto: "Integração dos resultados dos instrumentos com as informações clínicas e históricas."},
+    { titulo: "Devolutiva", texto: "Conversa para apresentação e compreensão dos resultados."},
+    { titulo: "Documento", texto: "Entrega do documento correspondente à avaliação realizada."}
   ],
 
   imagem: {
