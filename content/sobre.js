@@ -13,7 +13,6 @@ window.CONTENT.sobre = {
   titulo: "Olá, eu sou Victória",
   paragrafos: [
       "Psicologia, escuta e curiosidade pela história de cada pessoa."
-      ""
       "Sou Victória Amorim Corrêa, psicóloga, CRP 05/74553, formada em Psicologia pela Universidade Federal Fluminense (UFF)."
       "Minha trajetória profissional foi construída a partir de diferentes experiências dentro da Psicologia, incluindo atuação clínica, Terapia ABA e Neuropsicologia."
       "Tenho formação em Terapia ABA e Neuropsicologia, além de aprofundar continuamente meus estudos em Psicologia Clínica e Psicanálise — área que ocupa um lugar especialmente importante na minha forma de compreender o sujeito e o sofrimento psíquico."
