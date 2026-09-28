@@ -1,39 +1,62 @@
-# Landing Page Psicóloga — V1
+# Landing Page Psicóloga
 
-Versão inicial demonstrativa, responsiva para desktop, tablet e celular.
+Site estático (HTML + CSS + JavaScript), pronto para o GitHub Pages.
+Todo o texto e todas as imagens ficam em arquivos separados, fáceis de editar.
 
-## Arquivos
-- `index.html` — estrutura e conteúdo
-- `style.css` — identidade visual e responsividade
-- `script.js` — menu mobile e pequenos comportamentos
+## Onde editar cada coisa
+
+| O que você quer mudar | Arquivo |
+|---|---|
+| Nome, CRP, WhatsApp, Instagram, menu, texto do botão, rodapé | `content/site.js` |
+| Primeira tela (título, texto, imagem de fundo) | `content/inicio.js` |
+| Sobre mim (textos e foto) | `content/sobre.js` |
+| Abordagens terapêuticas (cartões) | `content/abordagens.js` |
+| Como funciona (etapas e foto) | `content/processo.js` |
+| Para quem é (lista e foto) | `content/publico.js` |
+| Perguntas frequentes | `content/faq.js` |
+| Contato (textos e endereço) | `content/contato.js` |
+| Suas fotos | pasta `images/` |
+| Cores | topo do `style.css` (bloco `:root`) |
+| Título e descrição no Google / prévia de link | `index.html` (`<title>` e `meta description`) |
+
+## Como editar pelo GitHub
+1. Abra o arquivo (por exemplo `content/sobre.js`) e clique no ícone de lápis.
+2. Altere **somente o texto entre aspas** `"..."`.
+3. Clique em **Commit changes**. O site atualiza em 1 a 2 minutos.
+
+Regras para não quebrar o arquivo:
+- Não apague as aspas, as vírgulas no fim das linhas, nem as chaves `{ }` e colchetes `[ ]`.
+- Para usar aspas dentro de um texto, escreva `\"` (ou use aspas simples `'`).
+- Para adicionar um item (parágrafo, cartão, pergunta, etapa), copie um item existente inteiro e cole logo abaixo, mantendo a vírgula entre eles.
+- Para esconder uma seção inteira, troque `mostrar: true` por `mostrar: false` (e remova o item correspondente do menu em `content/site.js`).
+
+## Como trocar imagens
+1. Envie a foto para a pasta `images/` (Add file → Upload files).
+2. No arquivo da seção, altere o campo `arquivo`, por exemplo `arquivo: "images/sobre.jpg"`.
+3. Ajuste `descricao` com um texto curto que descreva a foto.
+
+As imagens de demonstração vêm do Unsplash por URL. Para a versão final, use fotos próprias.
+
+## Estrutura do projeto
+```
+index.html          estrutura da página (não precisa editar, exceto <title> e description)
+style.css           visual e cores
+content/            TEXTOS (um arquivo por seção)
+images/             IMAGENS
+js/render.js        monta a página a partir de content/
+js/menu.js          menu do celular
+```
+
+## Publicar no GitHub Pages
+1. Crie um repositório no GitHub e envie **todos** os arquivos e pastas (mantendo a estrutura).
+2. Vá em Settings → Pages.
+3. Em Build and deployment, escolha Deploy from a branch.
+4. Selecione `main` e `/ (root)` e salve.
 
 ## Antes de publicar
-Substitua:
-- Ana Silva pelo nome real
-- CRP XX/XXXXX pelo CRP real
-- telefone/WhatsApp
-- Instagram
-- cidade/bairro
-- textos Lorem Ipsum
-- imagens demonstrativas
+Substitua os dados fictícios: nome, CRP, WhatsApp (`5500000000000`), Instagram, cidade/bairro, textos Lorem Ipsum e imagens de demonstração.
 
-Os links de WhatsApp usam um número fictício (`5500000000000`) e precisam ser alterados.
-
-## GitHub Pages
-1. Crie um repositório público no GitHub.
-2. Envie `index.html`, `style.css` e `script.js` para a raiz.
-3. Vá em Settings → Pages.
-4. Em Build and deployment, escolha Deploy from a branch.
-5. Selecione `main` e `/ (root)`.
-6. Salve.
-
-O site será publicado no endereço do GitHub Pages do repositório.
-
-## Observação
-As imagens da demonstração são carregadas do Unsplash por URL. Para a versão definitiva, é recomendável trocar por imagens próprias/profissionais ou por arquivos locais com licença adequada.
-
-
-## Paleta V1
+## Paleta
 - Areia `#D8C6AA`
 - Bordô `#6B2635`
 - Cinza escuro `#333333`
