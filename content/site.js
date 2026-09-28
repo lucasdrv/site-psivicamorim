@@ -11,16 +11,16 @@ window.CONTENT = window.CONTENT || {};
 
 window.CONTENT.site = {
   // ----- Identidade (aparece no topo e no rodapé) -----
-  nome: "Ana Silva",
-  profissao: "PSICÓLOGA",
+  nome: "Victória Amorim Corrêa",
+  profissao: "Psicóloga",
   simbolo: "⌁",                      // símbolo ao lado do nome
-  crp: "CRP XX/XXXXX",
+  crp: "CRP 05/74553",
 
   // ----- Contato -----
-  whatsapp: "5500000000000",         // somente números: 55 + DDD + número
-  whatsappExibicao: "(XX) XXXXX-XXXX", // como o número aparece escrito na página
+  whatsapp: "5522997668167",         // somente números: 55 + DDD + número
+  whatsappExibicao: "(22) 99766-8167", // como o número aparece escrito na página
   whatsappMensagem: "",              // (opcional) mensagem que já vem escrita no WhatsApp
-  instagram: "seuinstagram",         // usuário SEM o @ (deixe "" para esconder)
+  instagram: "psi.viamorim",         // usuário SEM o @ (deixe "" para esconder)
 
   // ----- Botão principal (topo, início e contato) -----
   botaoAgendar: "Agendar atendimento",
@@ -39,7 +39,7 @@ window.CONTENT.site = {
 
   // ----- Rodapé -----
   rodape: {
-    frase: "Psicologia com ética, escuta e acolhimento.",
-    copyright: "© 2026 Ana Silva. Todos os direitos reservados."
+    frase: "Psicologia, escuta e curiosidade pela história de cada pessoa.",
+    copyright: "© 2026 Victória Amorim Corrêa. Todos os direitos reservados."
   }
 };
