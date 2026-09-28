@@ -8,15 +8,14 @@ window.CONTENT.publico = {
   mostrar: true,
 
   etiqueta: "PARA QUEM É",
-  titulo: "Atendimento para diferentes fases da vida",
-  texto: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  titulo: "Cada pessoa chega à terapia por um motivo diferente.",
+  texto: "Não é necessário ter uma história extraordinária ou saber exatamente qual é o problema. Você pode procurar psicoterapia porque está vivendo uma dificuldade específica ou simplesmente porque percebe que algumas coisas já não estão funcionando como antes.",
   lista: [
-    "Adolescentes",
-    "Adultos",
-    "Idosos",
-    "Questões de ansiedade",
-    "Autoconhecimento",
-    "Relacionamentos"
+    "Relacionamentos",
+    "Ansiedade e insegurança",
+    "Autoestima",
+    "Mudanças e momentos de transição",
+    "Luto e perdas"
   ],
 
   imagem: {
