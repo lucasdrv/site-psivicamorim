@@ -30,7 +30,7 @@ window.CONTENT.sobre = {
   link: { texto: "Saiba mais sobre mim", destino: "#contato" },   // apague a linha para remover o botão
 
   imagem: {
-    arquivo: "https://drive.google.com/file/d/1_povVa5Udx3FHHS2cHGok3WIovQhwPDD/view?usp=sharing",
+    arquivo: "https://drive.google.com/file/d/1jay4rLWoHU44s_ELy-zKum4Pu3mEwba1/view?usp=sharing",
     descricao: "Imagem ilustrativa de profissional em ambiente acolhedor"
   }
 };
