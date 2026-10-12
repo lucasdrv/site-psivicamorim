@@ -18,7 +18,7 @@ window.CONTENT.inicio = {
   botaoSecundario: "Conheça meu trabalho",   // (o botão principal vem de site.js)
 
   imagem: {
-    arquivo: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1800&q=85",
+    arquivo: "https://drive.google.com/file/d/1_povVa5Udx3FHHS2cHGok3WIovQhwPDD/view?usp=drive_link",
     descricao: "Ambiente acolhedor de atendimento"
   }
 };
