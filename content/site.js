@@ -13,7 +13,7 @@ window.CONTENT.site = {
   // ----- Identidade (aparece no topo e no rodapé) -----
   nome: "Victória Amorim Corrêa",
   profissao: "Psicóloga",
-  simbolo: "⌁",                      // símbolo ao lado do nome
+  simbolo: "VA",                      // símbolo ao lado do nome
   crp: "CRP 05/74553",
 
   // ----- Contato -----
