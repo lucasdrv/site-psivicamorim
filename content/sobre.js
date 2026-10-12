@@ -10,7 +10,7 @@ window.CONTENT.sobre = {
   mostrar: true,
 
   etiqueta: "SOBRE MIM",
-  titulo: "Olá, eu sou Victória",
+  titulo: "Olá, eu sou a Victória",
   paragrafos: [
     "Psicologia, escuta e curiosidade pela história de cada pessoa.",
    "Sou Victória Amorim Corrêa, psicóloga, CRP 05/74553, formada em Psicologia pela Universidade Federal Fluminense (UFF).",
