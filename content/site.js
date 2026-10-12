@@ -30,7 +30,7 @@ window.CONTENT.site = {
   menu: [
     { texto: "Início",        link: "#inicio" },
     { texto: "Sobre mim",     link: "#sobre" },
-    { texto: "Abordagens",    link: "#abordagens" },
+    { texto: "Serviços",    link: "#abordagens" },
     { texto: "Como funciona", link: "#processo" },
     { texto: "Público",       link: "#publico" },
     { texto: "FAQ",           link: "#faq" },
